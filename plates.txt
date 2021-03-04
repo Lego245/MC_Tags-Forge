@@ -1,6 +1,7 @@
 plates/aluminum
 plates/constantan
 plates/copper
+plates/desh
 plates/electrum
 plates/fabricated_iron
 plates/gold
