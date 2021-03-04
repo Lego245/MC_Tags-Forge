@@ -10,6 +10,7 @@ ingots/cobalt
 ingots/constantan
 ingots/copper
 ingots/deep_iron
+ingots/desh
 ingots/electrum
 ingots/elementium
 ingots/gadolinium
