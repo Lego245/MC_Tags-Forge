@@ -2,6 +2,8 @@ dusts/aluminium
 dusts/ash
 dusts/bauxit
 dusts/bioterium
+dusts/brass
+dusts/bronze
 dusts/coal
 dusts/coal_coke
 dusts/constantan
