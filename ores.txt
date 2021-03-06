@@ -23,6 +23,7 @@ ores/mithrile
 ores/monazite
 ores/nickel
 ores/orichalcum
+ores/osmium
 ores/peridot
 ores/platinum
 ores/pyrite
