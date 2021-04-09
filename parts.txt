@@ -1,1 +1,6 @@
 parts/wind_turbines
+parts/energy_cell
+parts/teleportation_cell
+parts/copper_coil
+parts/motor
+parts/blank_module
