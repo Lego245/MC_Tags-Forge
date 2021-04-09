@@ -5,6 +5,7 @@ ingots/brass
 ingots/bronze
 ingots/bioterium
 ingots/bitripentium
+ingots/carbon
 ingots/chrome
 ingots/cobalt
 ingots/constantan
@@ -33,6 +34,7 @@ ingots/nickel
 ingots/orichalcum
 ingots/osmium
 ingots/platinum
+ingots/plutonium
 ingots/quantanium
 ingots/rare_earth
 ingots/rareearthmetal
