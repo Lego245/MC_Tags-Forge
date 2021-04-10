@@ -12,6 +12,8 @@ forge:sol_iii/coincoppernitium
 forge:sol_iii/coingalvanium
 forge:sol_iii/coingalantium
 
+forge:items/radioactive
+
 minecraft:lava
 minecraft:fire
 minecraft:magma_block
