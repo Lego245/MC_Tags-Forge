@@ -6,6 +6,7 @@ dusts/brass
 dusts/bronze
 dusts/coal
 dusts/coal_coke
+dusts/cobalt
 dusts/constantan
 dusts/copper
 dusts/electrum
@@ -21,6 +22,7 @@ dusts/mana
 dusts/neon
 dusts/nickel
 dusts/obsidian
+dusts/osmium
 dusts/quantanium
 dusts/retium
 dusts/saltpeter
