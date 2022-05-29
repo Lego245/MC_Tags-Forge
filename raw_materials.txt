@@ -1,0 +1,11 @@
+raw_materials/copper
+raw_materials/gold
+raw_materials/tin
+raw_materials/uranium
+raw_materials/aluminum
+raw_materials/cobalt
+raw_materials/iron
+raw_materials/silver
+raw_materials/tungsten
+raw_materials/zinc
+raw_materials/platinum
