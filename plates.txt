@@ -1,4 +1,5 @@
 plates/aluminum
+plates/bronze
 plates/constantan
 plates/copper
 plates/desh
@@ -8,8 +9,14 @@ plates/gold
 plates/iron
 plates/iridium
 plates/lead
+plates/lithium
 plates/nickel
 plates/silver
 plates/steel
+plates/vanadiumsteel
+plates/hslasteel
+plates/stainlesssteel
 plates/uranium
 plates/tin
+plates/titanium
+plates/titaniumcarbide
